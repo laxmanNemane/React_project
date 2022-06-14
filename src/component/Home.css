@@ -1,0 +1,17 @@
+.home_page{
+    width: 100%;
+    /* color: red; */
+    height: 450px;
+  
+}
+
+img{
+    width: 150px ;
+    height: 150px;
+    margin: 20px 0 0 0 ;
+}
+
+
+.sign_up{
+    background-color: rgb(236, 223, 103);
+}
